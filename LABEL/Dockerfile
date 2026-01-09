@@ -1,4 +1,4 @@
 FROM almalinux:8
-LABEL Course:"DevOps"\
-      Traiiner:"Aruna"\
-      Duration:"120HRS"
+LABEL COURSE:"DEVOPS"\
+      TRAINER:"ARUNA"\
+      DURATION:"120HRS"
